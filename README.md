@@ -1,7 +1,9 @@
 # Hi there! I'm Aliss 👋
 
 ### 🐍 Python & SQL Developer | Self-Taught | Career Changer
-
+<p align="center">
+  <img src="Sketches 0 WM.png" width="300" alt="My witch illustration">
+</p>
 I'm a self-taught Python and SQL developer with a background in education, currently transitioning into software development.
 
 I enjoy designing and building applications, working with relational databases, and solving problems through code.
