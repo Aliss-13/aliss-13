@@ -21,9 +21,9 @@ Game development is one of my favorite ways to explore programming concepts, exp
 
 ### 💻 Featured Projects
 
-- **Alchemy Lab-O-Matik:** A Python and SQLite application combining game mechanics, database management, crafting systems, and automated testing.
-- **Magique Boutique – Comptability Extension:** A business management application featuring inventory, sales, customers, and financial statistics.
-- **Funky Final Fantasy:** A text-based RPG featuring turn-based combat, quests, equipment, and character progression.
+- [**Alchemy Lab-O-Matik**](https://github.com/Aliss-13/python-sql/tree/main/3.%20ALCHEMY%20LABOMATIK) : A Python and SQLite application combining game mechanics, database management, crafting systems, and automated testing.
+- [**Magique Boutique – Comptability Extension**](https://github.com/Aliss-13/python-sql/tree/main/2.%20MAGIQUE%20BOUTIQUE) : A business management application featuring inventory, sales, customers, and financial statistics.
+- [**Funky Final Fantasy**](https://github.com/Aliss-13/python-games/tree/main/7.%20FUNKY%20FINAL%20FANTASY) : A text-based RPG featuring turn-based combat, quests, equipment, and character progression.
 
 ### 🌱 Currently Learning
 
