@@ -1,28 +1,35 @@
 # Hi there! I'm Aliss 👋
 
-🐍 **Python & SQL Developer | Self-Taught | Career Changer**
+### 🐍 Python & SQL Developer | Self-Taught | Career Changer
 
-I'm a self-taught developer with a background in education and a passion for building games, applications, and interactive systems.
+I'm a self-taught Python and SQL developer with a background in education, currently transitioning into software development.
 
-I enjoy turning ideas into working projects, exploring game mechanics, and solving problems through code.
+I enjoy designing and building applications, working with relational databases, and solving problems through code.
 
-### 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Database:** SQLite
-- **Tools:** Git, GitHub, VS Code, pytest
+Game development is one of my favorite ways to explore programming concepts, experiment with software architecture, and turn creative ideas into functional projects.
 
-### 🎮 Featured Projects
-- **Alchemy Lab-O-Matik:** A Python and SQLite alchemy game featuring crafting, exploration, and recipe discovery.
-- **Magique Boutique:** A business management application built with Python and SQLite.
-- **Funky Final Fantasy:** A text-based RPG featuring turn-based combat, quests, and character progression.
+### 🛠️ Technical Skills
+
+- **Programming:** Python, SQL
+- **Databases:** SQLite, relational database design
+- **Development Tools:** Git, GitHub, VS Code
+- **Testing:** pytest (currently learning)
+
+### 💻 Featured Projects
+
+- **Alchemy Lab-O-Matik:** A Python and SQLite application combining game mechanics, database management, crafting systems, and automated testing.
+- **Magique Boutique – Comptability Extension:** A business management application featuring inventory, sales, customers, and financial statistics.
+- **Funky Final Fantasy:** A text-based RPG featuring turn-based combat, quests, equipment, and character progression.
 
 ### 🌱 Currently Learning
-- Automated testing with pytest
-- Software design and code architecture
-- Database development
 
-### ✨ A Little More About Me
-I also enjoy drawing, storytelling, and creating imaginary worlds. Some of my illustrations even find their way into my programming projects!
+- Automated testing with pytest
+- Software architecture and code organization
+- Python and SQL best practices
+
+### 🎨 Beyond Coding
+
+I also enjoy drawing, storytelling, and creating imaginary worlds. These interests often inspire my personal programming projects.
 
 <!--
 **Aliss-13/aliss-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
