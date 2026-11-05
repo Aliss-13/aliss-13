@@ -2,7 +2,9 @@
 
 ### 🐍 Python & SQL Developer | Self-Taught | Career Changer
 <p align="center">
-  <img src="Sketches 0 WM.png" width="300" alt="My witch illustration">
+  <img src="Sketches%200%20WM%20banner.png"
+       width="620"
+       alt="Original witch illustrations by Aliss-13">
 </p>
 I'm a self-taught Python and SQL developer with a background in education, currently transitioning into software development.
 
