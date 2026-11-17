@@ -26,7 +26,7 @@ Game development is one of my favorite ways to explore programming concepts, exp
 - [**Funky Final Fantasy**](https://github.com/Aliss-13/python-games/tree/main/7.%20FUNKY%20FINAL%20FANTASY) : A text-based RPG featuring turn-based combat, quests, equipment, and character progression.
 
 ### 👨‍🔧 Currently working on :
-[**Astrologik**]([https://github.com/Aliss-13/astrologik]) : Python-based astrological calculation project that utilizes actual astronomical data provided by NASA. The goal is to progressively develop an application capable of calculating planetary positions and applying them within various astrological systems.
+[**Astrologik**](https://github.com/Aliss-13/astrologik) : Python-based astrological calculation project that utilizes actual astronomical data provided by NASA. The goal is to progressively develop an application capable of calculating planetary positions and applying them within various astrological systems.
 
 ### 🌱 Currently Learning
 
